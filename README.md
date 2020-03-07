@@ -5,4 +5,4 @@
 
 Calculate round trips for independent contractor mileage tax deduction. I was too lazy to do this by hand, so I just made Python 3.7 do it for me.
 
-BTW, this depends on Python 3.7 and Selenium (which kinda goes unused). Granted, I don't really use any 3.7 specific features... but that's there for info.
+BTW, this depends on Python 3.7 and Selenium (which kinda goes unused). Granted, I don't really use any 3.7 specific features... but that's there for info. Also, you need a driver for it.
